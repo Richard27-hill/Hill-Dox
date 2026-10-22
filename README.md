@@ -1,3 +1,5 @@
+⚠️ Precaución: Realizar consultas masivas de cédulas puede saturar la API o hacer que bloqueen tu IP. Evita abusar de las peticiones para no ser bloqueado temporalmente.
+
 ![Vista previa](foto.png)
 
 > **Entorno:** Probada en Termux y Win 10.
@@ -6,4 +8,3 @@
 ## 💻 Ejecución
 ```bash
 python dox.py
-⚠️ Precaución: Realizar consultas masivas de cédulas puede saturar la API o hacer que bloqueen tu IP. Evita abusar de las peticiones para no ser bloqueado temporalmente.
